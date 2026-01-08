@@ -324,5 +324,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for AI Security and Digital Trust**
-
-*Protecting digital media integrity through advanced machine learning and novel algorithmic approaches.*
